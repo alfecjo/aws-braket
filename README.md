@@ -1,6 +1,3 @@
-⚠️ **Este projeto está em desenvolvimento.** Algumas funcionalidades podem estar incompletas ou sujeitas a mudanças.
----
-
 # 🧪 AWS Braket — Quantum Experiments with Python
 
 🔗 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge)]()
