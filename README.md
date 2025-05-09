@@ -3,10 +3,13 @@
 
 # 🧪 AWS Braket — Quantum Experiments with Python
 
-[![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge)]()
-[![Tecnologia](https://img.shields.io/badge/AWS-Braket-orange?style=for-the-badge)](https://aws.amazon.com/braket/)
-[![Linguagem](https://img.shields.io/badge/Linguagem-Python-blue?style=for-the-badge)](https://www.python.org/)
-[![Licença](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)](LICENSE)
+🔗 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge)]()
+
+🔗 [![Tecnologia](https://img.shields.io/badge/AWS-Braket-orange?style=for-the-badge)](https://aws.amazon.com/braket/)
+
+🔗 [![Linguagem](https://img.shields.io/badge/Linguagem-Python-blue?style=for-the-badge)](https://www.python.org/)
+
+🔗 [![Licença](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)](LICENSE)
 
 ## 📌 Descrição
 
