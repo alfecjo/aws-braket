@@ -1,10 +1,8 @@
 # 🧪 AWS Braket — Quantum Experiments with Python
 
-🔗 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge)]()
+🔗 [![Status](https://img.shields.io/badge/AWS_Braket-bell_state_qiskit-yellow?style=for-the-badge)](https://github.com/alfecjo/aws-braket/tree/main/bell_state_qiskit)
 
-🔗 [![Tecnologia](https://img.shields.io/badge/AWS-Braket-orange?style=for-the-badge)](https://aws.amazon.com/braket/)
-
-🔗 [![Linguagem](https://img.shields.io/badge/Linguagem-Python-blue?style=for-the-badge)](https://www.python.org/)
+🔗 [![Tecnologia](https://img.shields.io/badge/AWS_Braket-quantum-bell-braket-orange?style=for-the-badge)](https://github.com/alfecjo/aws-braket/tree/main/quantum-bell-braket)
 
 🔗 [![Licença](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)](LICENSE)
 
