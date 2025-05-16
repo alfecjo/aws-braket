@@ -33,7 +33,9 @@ cd quantum-bell-braket
 ## Instale as dependências
 
 ```bash
-pip install amazon-braket-sdk amazon-braket-schemas matplotlib
+pip install amazon-braket-sdk
+amazon-braket-schemas
+matplotlib
 ```
 
 ## Execute o script principal
