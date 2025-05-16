@@ -2,7 +2,7 @@
 
 🔗 [![Status](https://img.shields.io/badge/AWS_Braket-bell_state_qiskit-yellow?style=for-the-badge)](https://github.com/alfecjo/aws-braket/tree/main/bell_state_qiskit)
 
-🔗 [![Tecnologia](https://img.shields.io/badge/AWS_Braket-quantum-bell-braket-orange?style=for-the-badge)](https://github.com/alfecjo/aws-braket/tree/main/quantum-bell-braket)
+🔗 [![Tecnologia](https://img.shields.io/badge/AWS_Braket-quantum_bell_braket-orange?style=for-the-badge)](https://github.com/alfecjo/aws-braket/tree/main/quantum-bell-braket)
 
 🔗 [![Licença](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)](LICENSE)
 
