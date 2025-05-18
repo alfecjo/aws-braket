@@ -1,4 +1,4 @@
-# 🧪 AWS Braket — Quantum Experiments with Python
+# 🧪 AWS Braket — Quantum Experimentos com Python
 
 🔗 [![Status](https://img.shields.io/badge/AWS_Braket-bell_state_qiskit-yellow?style=for-the-badge)](https://github.com/alfecjo/aws-braket/tree/main/bell_state_qiskit)
 
